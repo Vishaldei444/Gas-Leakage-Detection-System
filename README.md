@@ -20,3 +20,7 @@ This project demonstrates the use of sensors, actuators, and Arduino programming
 | 220Ω Resistor | 1 |
 | Buzzer | 1 |
 | Jumper Wires | As Required |
+
+## Project Demo Video
+
+[▶ Watch Demo Video](./gas%20sensor%20-%20Wokwi%20ESP32,%20STM32,%20Arduino%20Simulator%20-%20Google%20Chrome%202026-06-07%2018-53-26.mp4)
